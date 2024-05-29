@@ -1,0 +1,47 @@
+baseURL: ""
+languageCode: en-us
+title: ""
+theme: PaperMod
+
+params:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: Mohammed Hamza
+    
+    Content:
+      Hi👋 I'm **Mohammed Hamza**, an engineering student. Now pursuing my degree from National Institute of Technology, Delhi in ***Electronics and Communication Engineering(ECE)***. 
+      I am a curious learner who is always willing to learn and work across technologies and domains.
+      In my spare time I like to solve problems on [@Leetcode](https://leetcode.com/Mohammed_Hamza) and play chess.
+  socialIcons:
+    - name: x
+      url: https://x.com/
+    - name: github
+      url: https://github.com/MohammedHamza0631
+  
+  cover:
+    linkFullImages: true
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 50
