@@ -1,8 +1,8 @@
-+++
-title = 'My Second Post'
-date = 2024-05-27T20:38:24+05:30
-draft = false
-+++
+---
+title: "Second post"
+date: 2024-05-29T11:30:04+05:30
+draft: false
+---
 
 # Second Blog
 

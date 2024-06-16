@@ -6,19 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2024 20:38:24 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 11:30:04 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Introductory Post</title>
       <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 27 May 2024 20:38:24 +0530</pubDate>
+      <pubDate>Wed, 29 May 2024 11:30:04 +0530</pubDate>
       <guid>//localhost:1313/posts/my-first-post/</guid>
       <description>Intro Blog This is my first blog post. I am excited to start my blogging journey.</description>
     </item>
     <item>
-      <title>My Second Post</title>
+      <title>Second post</title>
       <link>//localhost:1313/posts/second-post/</link>
-      <pubDate>Mon, 27 May 2024 20:38:24 +0530</pubDate>
+      <pubDate>Wed, 29 May 2024 11:30:04 +0530</pubDate>
       <guid>//localhost:1313/posts/second-post/</guid>
       <description>Second Blog This is my second blog post. I am excited to continue my blogging journey.</description>
     </item>
